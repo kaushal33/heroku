@@ -43,3 +43,5 @@ const delay = require ('delay');
   await page.screenshot({path: 'screenshots/screenshot1.png'});
   // await browser.close();
 })();
+
+// commit no. 2
