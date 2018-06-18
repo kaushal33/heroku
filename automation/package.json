@@ -1,0 +1,25 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "automates the browser",
+  "main": "resller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaushal33/heroku.git"
+  },
+  "keywords": [
+    "githubkaro"
+  ],
+  "author": "kaushal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushal33/heroku/issues"
+  },
+  "homepage": "https://github.com/kaushal33/heroku#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
